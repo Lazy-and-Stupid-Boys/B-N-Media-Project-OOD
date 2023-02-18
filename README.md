@@ -1,11 +1,11 @@
 # MediaProject
 
-</> This is a project about handing music on java.
+</> This is a project about handling music on Java.
 <br>
-</> This program (B&N Media Player) was written by Pham Cao Bang and Nguyen Phuong Nha for Object Orientation Design subject at Faculty of Information and Technology - Nong Lam University
+</> This program (B&N Media Player) was written by Pham Cao Bang and Nguyen Phuong Nha for Object Orientation Design subject at the Faculty of Information and Technology - Nong Lam University.
+
+</> Technicals have been used for this project:
 <br>
-</> Technicals have been used for this project: 
-    <br>
-    ----> JavaFX, exactly use Scene Builder for easy create an modern UI, and JavaFX provide a file FXML to easy manage hierachy of components and handle event of its.
-    <br>
-    ----> Clip class for handling music file (only *.wav file format)
+----> Using Scene Builder to easily create a modern UI, and JavaFX provides a file FXML to easily manage the hierarchy of components and handle the event of its.
+<br>
+----> Clip class for handling music files (only *.wav file format)
