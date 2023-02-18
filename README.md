@@ -6,6 +6,6 @@
 <br>
 </> Technicals have been used for this project: 
     <br>
-    -> JavaFX, exactly use Scene Builder for easy create an modern UI, and JavaFX provide a file FXML to easy manage hierachy of components and handle event of its.
+    ----> JavaFX, exactly use Scene Builder for easy create an modern UI, and JavaFX provide a file FXML to easy manage hierachy of components and handle event of its.
     <br>
-    -> Clip class for handling music file (only *.wav file format)
+    ----> Clip class for handling music file (only *.wav file format)
